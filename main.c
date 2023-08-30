@@ -8,7 +8,7 @@
 
 #define PINNE_A0 0
 
-//adasd
+//adasdghgh
 #define BIT_SET(a, b) ((a) |= (1ULL << (b)))
 #define BIT_CLEAR(a,b) ((a) &= ~(1ULL<<(b)))
 #define BIT_FLIP(a,b) ((a) ^= (1ULL<<(b)))
